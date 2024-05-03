@@ -1,6 +1,6 @@
 # Trabajo Practico 1 - Organización de Datos 7506 - Catedra Rodríguez
 Todos los archivos correspondientes a las notebooks y los modelos guardados se encuentran disponibles en la carpeta correspondiente a cada checkpoint bajo el formato:
-` 
+`
 checkpoint-X
 `
 
