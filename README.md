@@ -18,3 +18,8 @@ checkpoint-1
 ## Checkpoint 2 (02/05/2024):
 - [PDF Reporte](https://drive.google.com/file/d/1M3sL3vZ0RZJNxZYlSYPc-B2x-wJxzVq3/view?usp=sharing)
 - [Link al CSV de avisos con `tipo_precio`](https://drive.usercontent.google.com/u/1/uc?id=1Aib-aBN7wcI3EuPTX-Kd7VyZVwffB_sQ&export=download) (se encuentra también disponible en el repositorio)
+
+---
+## Checkpoint 3 (16/05/2024):
+- [PDF Reporte](https://drive.google.com/file/d/1uu8yC1YbCWYVePS4u1dnPwOMIUV5-EYC/view?usp=sharing)
+---
